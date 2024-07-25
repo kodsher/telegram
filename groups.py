@@ -3,8 +3,8 @@ from telethon import TelegramClient
 from telethon.errors import PhoneNumberInvalidError, SessionPasswordNeededError
 
 # Your API credentials
-api_id = 22022925  # Your API ID
-api_hash = '0a2b4e19680dea65e7830bd2ede56154'  # Your API hash
+api_id = 00000000  # Your API ID
+api_hash = '00000000000000000000000000000000'  # Your API hash
 
 # Create the client and connect
 client = TelegramClient('session_name', api_id, api_hash)
